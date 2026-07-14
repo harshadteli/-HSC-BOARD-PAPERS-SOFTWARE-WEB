@@ -10,13 +10,14 @@
 <hr>
 <center>
 <img src="./assets/IMAGES/image1.png" alt="E404-Image-Banner-Dashboard"/>
-</center>
+</center><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20JS-blue?style=for-the-badge" alt="Tech Stack"/>
   <img src="https://img.shields.io/badge/Theme-Google%20Light-ea4335?style=for-the-badge" alt="Theme"/>
   <img src="https://img.shields.io/badge/Target-Science%20Students-34a853?style=for-the-badge" alt="Target Audience"/>
   <img src="https://img.shields.io/badge/License-MIT-a142f4?style=for-the-badge" alt="License"/>
 </p>
+
 
 ---
 
@@ -40,7 +41,13 @@
 *   **Scripting:** Vanilla JavaScript (Dynamic DOM rendering, clean routing state, modal trigger controller)
 
 ---
+<hr>
 
+<center>
+<img src="./assets/IMAGES/mockup.png" alt="E404-Image-Banner-Dashboard"/>
+</center>
+<hr>
+---
 ## 📁 Repository Structure
 
 ```files
